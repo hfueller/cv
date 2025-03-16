@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hfueller.github.io/cv//sitemap.xml
+Sitemap: https://hfueller.github.io/cv/sitemap.xml
