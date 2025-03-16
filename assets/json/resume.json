@@ -33,11 +33,7 @@
       "startDate": "2014-10-01",
       "endDate": "",
       "summary": "Research and teaching. Cluster Society. Cultural- and Social Geography Lab (Prof. Dr. Ilse Helbrecht)",
-      "highlights": [
-        "Director of studies since 2023",
-        "Habilitation 2021",
-        "Tenured position since 2016"
-      ]
+      "highlights": ["Director of studies since 2023", "Habilitation 2021", "Tenured position since 2016"]
     },
     {
       "name": "University of Seattle, Department of Geography",
@@ -48,9 +44,7 @@
       "startDate": "2012-07-01",
       "endDate": "2012-09-30",
       "summary": "Research",
-      "highlights": [
-        "Research Habilitation project"
-      ]
+      "highlights": ["Research Habilitation project"]
     },
     {
       "name": "George Washington University, Department of Geography and Environment",
@@ -61,11 +55,9 @@
       "startDate": "2012-03-01",
       "endDate": "2012-03-07",
       "summary": "Research",
-      "highlights": [
-        "Interviews Habilitation project"
-      ]
+      "highlights": ["Interviews Habilitation project"]
     },
-     {
+    {
       "name": "FAU Erlangen-Nürnberg, Institute for Geography",
       "location": "Erlangen, Germany",
       "description": "Institute for Geography",
@@ -74,9 +66,7 @@
       "startDate": "2009-02-01",
       "endDate": "2014-09-30",
       "summary": "Research and teaching. Cultural Geography Lab (Prof. Dr. Georg Glasze)",
-      "highlights": [
-        "Academic council since 2010"
-      ]
+      "highlights": ["Academic council since 2010"]
     },
     {
       "name": "Goethe-Universität Frankfurt, Institute for Human Geography",
@@ -87,9 +77,7 @@
       "startDate": "2006-02-01",
       "endDate": "2009-08-30",
       "summary": "Promotion, DFG Project Urban Discourses (Prof. Dr. Robert Pütz, Dr. Georg Glasze)",
-      "highlights": [
-        "Promotion Dr. rer. pol. 2009 (summa cum laude)"
-      ]
+      "highlights": ["Promotion Dr. rer. pol. 2009 (summa cum laude)"]
     }
   ],
   "volunteer": [
@@ -100,13 +88,11 @@
       "startDate": "2023-11-01",
       "endDate": "",
       "summary": "Member of the executive board",
-      "highlights": [
-        "Supervision of teaching related administrative tasks"
-      ]
+      "highlights": ["Supervision of teaching related administrative tasks"]
     }
   ],
   "education": [
-      {
+    {
       "institution": "Freie Universität Berlin, Otto-Suhr-Institut",
       "url": "https://www.polsoz.fu-berlin.de/polwiss/index.html",
       "area": "Politikwissenschaften",
