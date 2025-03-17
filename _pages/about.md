@@ -1,23 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Researcher at <a href='https://www.geographie.hu-berlin.de/'>Geographisches Institut</a>, Humboldt-Universität zu Berlin.
-
 profile:
   align: right
   image: hf_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office:</p>
+    <p>PD Dr. Henning Füller</p>
     <br>
     <p>Rudower Chaussee 16</p>
     <br> 
     <p>12489 Berlin</p>
     <br>  
     <p>Room 3'108</p>
-    <br>  
-    <p>Office Hours: Wednesday 3pm - 4pm</p>
+    <br>
+    <p>tel: +49 (0)30 2093-9315</p>
+    <br> 
+    <p><a href="mailto:henning.fueller@geo.hu-berlin.de">henning.fueller@geo.hu-berlin.de</a></p>
+    <br>
+    <br>
+    <p>Office Hours:</p> 
+    <p>Wednesday 3pm - 4pm</p>
+    <p>Appointment via <a href= "https://calendly.com/henning-fueller-geo/30min">Calendly</a></p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,8 +39,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an urban, social and political geographer and researcher (Postdoc) at the Humboldt-Universität zu Berlin. I received my PhD in Geography from the Goethe-Universität Frankfurt and hold a Diploma in Political Sciences from Freie Universität Berlin. I finished my Habilitation at the Universität Erlangen-Nürnberg.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My overarching interest concerns the interrelations of power, space and technology. My research recently concerns technopolitics - that is the political performance of technologies - of data-based decision making. My work builds on theories and methodologies in governmentality, STS, political ecology and critical theory.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work at the Geography, Department, Humboldt-University zu Berlin, Cluster Society, AG Cultural- and Social Geography ([Prof. Dr. Ilse Helbrecht](https://www.geographie.hu-berlin.de/de/Members/helbrecht_ilse))
+
+
