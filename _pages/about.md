@@ -23,7 +23,7 @@ profile:
     <br>
     <p>Office Hours:</p> 
     <p>Wednesday 3pm - 4pm</p>
-    <p>Appointment via <a href= "https://calendly.com/henning-fueller-geo/30min">Calendly</a></p> 
+    <p>Appointment via <a href= "https://calendly.com/henning-fueller-geo/30min">Calendly</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -44,5 +44,3 @@ I am an urban, social and political geographer and researcher (Postdoc) at the H
 My overarching interest concerns the interrelations of power, space and technology. My research recently concerns technopolitics - that is the political performance of technologies - of data-based decision making. My work builds on theories and methodologies in governmentality, STS, political ecology and critical theory.
 
 I work at the Geography, Department, Humboldt-University zu Berlin, Cluster Society, AG Cultural- and Social Geography ([Prof. Dr. Ilse Helbrecht](https://www.geographie.hu-berlin.de/de/Members/helbrecht_ilse))
-
-
