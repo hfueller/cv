@@ -7,16 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-# Current courses
+## Current courses
 
 Current courses can also be found in the [course catalogue (AGNES)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&purge=y&personal.pid=24969&expand=Veranstaltungen#Veranstaltungen)
 
-# Past courses
-
-### SoSe 2025
-
-- VS Politische Geographie und Stadt
-- HEX Wien
+## Past courses
 
 ### WiSe 2024/25
 
