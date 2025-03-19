@@ -41,6 +41,6 @@ latest_posts:
 
 I am an urban, social and political geographer and researcher (Postdoc) at the Humboldt-Universität zu Berlin. I received my PhD in Geography from the Goethe-Universität Frankfurt and hold a Diploma in Political Sciences from Freie Universität Berlin. I finished my Habilitation at the Universität Erlangen-Nürnberg.
 
-My overarching interest concerns the interrelations of power, space and technology. My research recently concerns technopolitics - that is the political performance of technologies - of data-based decision making. My work builds on theories and methodologies in governmentality, STS, political ecology and critical theory.
+My overarching interest concerns the interrelations of power, space and technology. My research recently centered on technopolitics - that is the political performance of technologies and on data-based decision making (e.g. here: [Infrastrukturen der Biosicherheit](https://www.transcript-verlag.de/978-3-8376-6021-0/infrastrukturen-der-biosicherheit/?number=978-3-8394-6021-4)). My work builds on theories and methodologies in governmentality, STS, political ecology and critical theory.
 
-I work at the Geography, Department, Humboldt-University zu Berlin, Cluster Society, AG Cultural- and Social Geography ([Prof. Dr. Ilse Helbrecht](https://www.geographie.hu-berlin.de/de/Members/helbrecht_ilse))
+I work at the [Geography Department](https://www.geographie.hu-berlin.de), Humboldt-University zu Berlin. I contribute to the Cluster Society, working group Cultural- and Social Geography ([Prof. Dr. Ilse Helbrecht](https://www.geographie.hu-berlin.de/de/Members/helbrecht_ilse)).
