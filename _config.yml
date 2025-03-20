@@ -8,7 +8,7 @@ middle_name:
 last_name: Füller
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  CV Henning Füller - Research interests, publications, contact
+  Academic portfolio Henning Füller - Research interests, contact, CV, publications, teaching
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: academic, portfolio, cv # add your own keywords or leave empty
@@ -189,6 +189,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+
 keep_files:
   - CNAME
   - .nojekyll
