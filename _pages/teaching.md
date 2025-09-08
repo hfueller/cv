@@ -13,6 +13,10 @@ Current courses can also be found in the [course catalogue (AGNES)](https://agne
 
 ## Past courses
 
+### SoSe 2025
+- Hauptexkursion Wien
+- Master Politische Geographie und Stadt
+
 ### WiSe 2024/25
 
 - Vorlesung Einführung in die Kultur- und Sozialgeographie
