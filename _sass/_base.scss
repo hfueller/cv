@@ -644,6 +644,12 @@ footer.sticky-bottom {
   }
 }
 
+// diff2html - Fix for diff2html line number overflow
+
+.d2h-diff-table {
+  position: relative;
+}
+
 // Distill
 
 .distill {
@@ -714,7 +720,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-theme-color);
+    color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
