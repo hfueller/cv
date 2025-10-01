@@ -14,6 +14,7 @@ Current courses can also be found in the [course catalogue (AGNES)](https://agne
 ## Past courses
 
 ### SoSe 2025
+
 - Hauptexkursion Wien
 - Master Politische Geographie und Stadt
 
