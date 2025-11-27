@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Henning Füller",
+    "name": "PD Dr. Henning Füller",
     "label": "Researcher",
-    "image": "",
+    "image": "portr_fueller.jpeg",
     "email": "henning.fueller@geo.hu-berlin.de",
     "phone": "+49 (0)30 2093-9315",
     "url": "https://hfueller.github.io/cv/",
-    "summary": "Henning Füller is a Geographer with a background in Political Science and Social Sciences. He is broadly interested in the interrelations of power and space. Recent projects concern the shift towards preemption entailed in digital technologies and changing modes of urban governance.",
+    "summary": "PD Dr. Henning Füller is a Geographer with a background in Political Science and Social Sciences. He is broadly interested in the interrelations of power and space. Recent projects concern the shift towards preemption entailed in digital technologies and changing modes of urban governance.",
     "location": {
       "address": "Rudower Chaussee 16",
       "postalCode": "12489",
