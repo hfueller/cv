@@ -26,7 +26,7 @@ profile:
     <br>
     <p>Office Hours:</p> 
     <p>Wednesday 3pm - 4pm</p>
-    <p>Appointment via <a href= "https://calendly.com/henning-fueller-geo/30min">Calendly</a></p>
+    <p>Appointment via <a href= "https://terminplaner6.dfn.de/de/b/8a5e37fd0a518c1c5eb2da71a5f8e3da-1758104">Terminplaner</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
