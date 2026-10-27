@@ -1,0 +1,22 @@
+---
+# Feste Kurz-URL für die Sprechstunde.
+# Bei neuem Buchungslink NUR die Zeile "target" anpassen.
+layout: null
+permalink: /sprechstunde/
+sitemap: false
+target: https://terminplaner.dfn.de/public/bookings/e8a327b4-a7d8-4e3c-8140-9e3e65d9b1f1
+---
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title>Sprechstunde – Weiterleitung</title>
+    <meta name="robots" content="noindex">
+    <link rel="canonical" href="{{ page.target }}">
+    <meta http-equiv="refresh" content="0; url={{ page.target }}">
+    <script>window.location.replace("{{ page.target }}");</script>
+  </head>
+  <body>
+    <p>Weiter zur Terminbuchung: <a href="{{ page.target }}">{{ page.target }}</a></p>
+  </body>
+</html>
